@@ -6,5 +6,5 @@
 ## CVC-ClinicDB 
 ![612](https://github.com/user-attachments/assets/bd6f7afd-0c89-4697-b4cb-0e975744c44c)
 
-## polypGen
+## PolypGen
 ![polypgen](https://github.com/user-attachments/assets/a24b7ebc-57fb-45e8-92c6-9c578422ed6c)
